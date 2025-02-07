@@ -10,7 +10,9 @@ Il s’agit d’informations sur des réservations d’hôtels dans certaines ca
 
 📁 Fichiers
 
-* defiIA_codes.html : Ensemble des codes pour le projet (analyse descriptive, modélisation) au format html avec toutes les sorties de codes visibles (cartes et graphes plotly)
+* defiIA_codes_part1.ipynb : Ensemble des codes pour la partie analyse descriptive du projet
+* defiIA_codes_part1.ipynb : Ensemble des codes pour la partie modélisation du projet 
+* defiIA_codes.html : Ensemble des codes pour le projet (analyse descriptive, modélisation) au format html avec toutes les sorties d'affichées (cartes)
 * defiIA_presentation.pdf : Support de présentation du projet
 
 🛠️ Outils
